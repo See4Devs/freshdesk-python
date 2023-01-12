@@ -1,6 +1,6 @@
 # Python code to create, get, and update Freshdesk tickets.
 
-Replace the **yourcompany** with the company name you have put on Freshdesk, you can get this from the freshdesk url on your browser. Replace the **your_api_key** with the key that you can get from your Freshdesk **Profile Settings**, and the **your_freshdesk_password** with the password of your freshdesk account.
+Replace **yourcompany** with the company name you have put on Freshdesk, you can get this from the freshdesk url on your browser. Replace **your_api_key** with the key that you can get from your Freshdesk **Profile Settings**, and **your_freshdesk_password** with the password of your freshdesk account.
 
 Make sure you have Installed the following libraries
 ```
